@@ -17,7 +17,7 @@
 
 ------
 
-![main page](<https://github.com/Xiong1028/pictures/blob/master/ms01.jpg>)
+![main page](<https://github.com/Hui0820/Pictures/blob/master/ms01.jpg>)
 
 
 
@@ -27,7 +27,7 @@
 
 when users upload the microwave CSV files,  the web application will read all the data from CSV files and insert the data into mysql database.
 
-![](<https://github.com/Hui0820/Pictures/blob/master/ms01.jpg>)
+![](<https://github.com/Hui0820/Pictures/blob/master/ms02.gif>)
 
 
 
